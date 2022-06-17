@@ -1,6 +1,6 @@
 # HackingWifiScript
-This script written in python3 was created for simplified brute force scanning using the aircrack-ng utility.
-
+This script written in python3 was created for simplified brute force scanning using the aircrack-ng utility.<br>
+__You can look at the repository where everything is described in detail. <a href="https://github.com/John-MetrosSoftware/HackingWifi">Link</a>.__
 ## Installation for python3
 ### Libraries
 - <a href="https://pypi.org/project/prompt-toolkit/0.5/">prompt_toolkit</a>
