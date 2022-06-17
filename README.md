@@ -171,5 +171,4 @@ autopep8 HackingWifiScript.py --recursive --in-place
 autopep8 Deauth.py --recursive --in-place
 ```
 ## Developer 
-Email    : wwwkali00312@gmail.com<br>
 Telegram : https://t.me/metrossoftware
