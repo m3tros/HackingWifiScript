@@ -154,6 +154,22 @@ if __name__ == '__main__':
     main()
 ```
 
+ 
+
+## Compilation
+I usually compile my projects using the <a href="https://pypi.org/project/pyinstaller/">pyinstaller</a> compiler with the following parameters:
+```
+pyinstaller -F HackingWifiScript.py
+pyinstaller -F Deauth.py
+```
+
+When making edits in the code or other changes, mark the author I want to know how the project is developing.
+## PEP8
+<a href="https://pypi.org/project/autopep8/">autopep8</a> automatically formats Python code to conform to the PEP 8 style guide. It uses the pycodestyle utility to determine what parts of the code needs to be formatted. autopep8 is capable of fixing most of the formatting issues that can be reported by pycodestyle.
+```
+autopep8 HackingWifiScript.py --recursive --in-place
+autopep8 Deauth.py --recursive --in-place
+```
 ## Developer 
 Email    : wwwkali00312@gmail.com<br>
 Telegram : https://t.me/metrossoftware
