@@ -67,7 +67,7 @@ def scan_wifi():
     # Access point bssid
     bssid = prompt('Bssid: ')
     if bssid.replace(' ', '') == '':
-        print('Error! You did not enter bssid. ({}).'.format(cannel))
+        print('Error! You did not enter bssid. ({}).'.format(bssid))
         while True:
             bssid = prompt('Bssid: ')
             if bssid.replace(' ', '') != '':
