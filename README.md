@@ -1,4 +1,11 @@
-# HackingWifiScript
+
+
+<p align="center"> 
+  <img src="https://cdn-icons.flaticon.com/png/512/3178/premium/3178257.png?token=exp=1656614517~hmac=4201af74c509fc6632475be12260022b" alt="HackingWifiScript" width="80" height="80">
+</p>
+<h1 align="center">HackingWifiScript</h1>
+
+
 This script written in python3 was created for simplified brute force scanning using the aircrack-ng utility.<br><br>
 __You can look at the repository where everything is described in detail. <a href="https://github.com/John-MetrosSoftware/HackingWifi">Link</a>.__
 ## Installation for python3
@@ -170,5 +177,3 @@ When making edits in the code or other changes, mark the author I want to know h
 autopep8 HackingWifiScript.py --recursive --in-place
 autopep8 Deauth.py --recursive --in-place
 ```
-## Developer 
-Telegram : https://t.me/metrossoftware
